@@ -3,3 +3,4 @@ git status
 git addmore
 git commit -m "message"
 git push
+git clone
